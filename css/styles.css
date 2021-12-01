@@ -1,0 +1,8 @@
+.jumbotron img {
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+.jumbotron p {
+    font-size: 20px;
+}
