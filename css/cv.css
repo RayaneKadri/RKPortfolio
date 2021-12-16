@@ -88,7 +88,8 @@ body { padding-top: 50px; }
 ******************************************/
 #competences .container {
  display: flex; flex-direction: row; justify-content: space-between; }
-#competences .container .libelle { font-size: 1.3em; }
+#competences .container .libelle { font-size: 1.3em; color:white; }
+.avertissement{color:rgb(236, 9, 9); text-decoration: bold;}
 #competences .container .classement {
  background: scroll transparent url(images/Red-Rating-Stars.png) no-repeat;
  width: 160px; height: 27px; }
