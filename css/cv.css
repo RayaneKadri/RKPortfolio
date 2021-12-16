@@ -27,7 +27,7 @@ body { padding-top: 50px; }
 #parcours { margin-top: 20px; position: relative; padding: 1em 0; list-style: none; }
 #parcours::before { width: 5px; height: 100%; position: absolute; left: 7.8px; top: 0;
  display: block; background: linear-gradient(to bottom, #ffffff1a 0%, 
- #E2001A 7%, #E2001A, #ffffff1a 100%); content:""; }
+ #ffffff 7%, #ffffff, #ffffff1a 100%); content:""; }
 #parcours li { width: 100%; z-index: 2; position: relative; float: left; }
 #parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em;
