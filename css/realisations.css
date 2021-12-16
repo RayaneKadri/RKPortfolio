@@ -1,11 +1,13 @@
 /********************************************
-Modification fond image réalisation
+Modification couleur page réalisation
 *********************************************/
 .bg-light {
     background-color: #332a53!important;
 }
 
-
+.text-muted {
+    color: #ffffff!important;
+}
 /********************************************
 Ajustement CSS par défaut
 *********************************************/
