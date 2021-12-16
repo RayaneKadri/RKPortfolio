@@ -1,3 +1,67 @@
+/********************************************
+Modification couleur barre de navigation personnaliser
+
+*********************************************/
+.bg-dark {
+    background-color: #003B6F!important;
+}
+
+/********************************************
+Modification couleur des boutons
+*********************************************/
+.btn-primary {
+    color: #fff; /*couleur du texte à l'intérieur des boutons */
+    background-color: #e2d546; /* couleur du bouton */
+    border-color: #e2d546; /* bordure du bouton */
+}
+
+.btn-primary:hover { /* quand on passe sur le bouton */
+    color: #fff; /*couleur du texte à l'intérieur des boutons */
+    background-color: #f06553; /* couleur du bouton */
+    border-color: #f06553; /* bordure du bouton */
+}
+
+
+
+.btn-secondary { /* bouton du footer */
+    color: #fff;
+    background-color: #303b5f;
+    border-color: #303b5f;
+}
+
+.btn-secondary:hover { /* quand on passe sur le bouton du footer */
+    color: #fff; /*couleur du texte à l'intérieur des boutons */
+    background-color: #381c2a; /* couleur du bouton */
+    border-color: #381c2a; /* bordure du bouton */
+}
+
+/********************************************
+Modification arrière plan
+*********************************************/
+.jumbotron {
+    background-image:url('../images/background.png')
+}
+
+body{
+    background-color: #442a53;
+
+}
+p,h2{
+    color: white;
+}
+.jumbotron p, h1{
+    color: white;
+}
+/********************************************
+Modification couleur footer
+*********************************************/
+footer{
+
+}
+
+/********************************************
+Ajustement CSS par défaut
+*********************************************/
 .jumbotron img {
     float: left;
     margin: 0 15px 15px 0;
