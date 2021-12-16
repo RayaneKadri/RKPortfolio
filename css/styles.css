@@ -21,20 +21,6 @@ Modification couleur des boutons
     border-color: #f06553; /* bordure du bouton */
 }
 
-
-
-.btn-secondary { /* bouton du footer */
-    color: #fff;
-    background-color: #303b5f;
-    border-color: #303b5f;
-}
-
-.btn-secondary:hover { /* quand on passe sur le bouton du footer */
-    color: #fff; /*couleur du texte à l'intérieur des boutons */
-    background-color: #381c2a; /* couleur du bouton */
-    border-color: #381c2a; /* bordure du bouton */
-}
-
 /********************************************
 Modification arrière plan
 *********************************************/
