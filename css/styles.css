@@ -49,6 +49,7 @@ Ajustement CSS par défaut
 
 .jumbotron p {
     font-size: 20px;
+    text-align: left;
 }
 /********************************************
 modifications des liens
