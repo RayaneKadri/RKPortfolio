@@ -8,16 +8,16 @@
                     <a class="navbar-brand" href="index.html">Rayane KADRI</a>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
-                            <li class="active nav-item">
+                            <li class="nav-item <?php if ($page===0) { ?>active <?php } ?>">
                                 <a href="index.html" class="nav-link">
                                     <span class="fa fa-home"></span> Accueil
                                 </a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item <?php if ($page===1) { ?>active <?php } ?>">
                                 <a href="pages/cv.html" class="nav-link">
                                     <span class="fa fa-id-badge"></span> CV
                                 </a>
-                            <li class="dropdown nav-item">
+                            <li class="dropdown nav-item <?php if ($page===2) { ?>active <?php } ?>">
                                 <a href="#" class="dropdown-toggle nav-link"
                                 data-toggle="dropdown" role="button">
                                     <span class="fa fa-list-alt"></span> Réalisations <span class="caret"></span>
