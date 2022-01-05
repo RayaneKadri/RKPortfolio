@@ -9,12 +9,12 @@
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li class="nav-item <?php if ($page===0) { ?>active <?php } ?>">
-                                <a href="index.html" class="nav-link">
+                                <a href="<?php __DIR__?>/" class="nav-link">
                                     <span class="fa fa-home"></span> Accueil
                                 </a>
                             </li>
                             <li class="nav-item <?php if ($page===1) { ?>active <?php } ?>">
-                                <a href="pages/cv.html" class="nav-link">
+                                <a href="pages/C_cv.php" class="nav-link">
                                     <span class="fa fa-id-badge"></span> CV
                                 </a>
                             <li class="dropdown nav-item <?php if ($page===2) { ?>active <?php } ?>">
@@ -26,13 +26,13 @@
                                     <li role="presentation" class="dropdown-header dropdown-item">
                                         Au Lycée</li>
                                     <li role="presentation" class="dropdown-item">
-                                        <a role="menuitem" href="pages/nolark.html">Nolark</a>
+                                        <a role="menuitem" href="pages/C_nolark.php">Nolark</a>
                                     </li>
                                     <li role="presentation" class="dropdown-divider"></li>
                                     <li role="presentation" class="dropdown-header dropdown-item">
                                         En entreprise</li>
                                     <li role="presentation" class="dropdown-item">
-                                        <a role="menuitem" href="pages/firstyear.html">Projet 1ére année</a>
+                                        <a role="menuitem" href="pages/C_firstyear.php">Projet 1ére année</a>
                                     </li>
                                 </ul>
                             </li>
