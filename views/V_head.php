@@ -16,5 +16,5 @@
          <!-- fichier Styles CSS -->
          <link rel="stylesheet" href="./css/styles.css">
         <link rel="icon" href="favicon.ico">
-        <title>Mon Portfolio</title>
+        <title>Accueil</title>
     </head>
