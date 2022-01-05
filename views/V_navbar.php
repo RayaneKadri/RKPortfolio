@@ -5,7 +5,7 @@
                             data-target="#navbar" aria-controls="navbar">
                         <span class="sr-only">Navigation raccourcie</span>☰
                     </button>
-                    <a class="navbar-brand" href="index.html">Rayane KADRI</a>
+                    <a class="navbar-brand" href="<?php __DIR__?>/">Rayane KADRI</a>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav">
                             <li class="nav-item <?php if ($page===0) { ?>active <?php } ?>">
