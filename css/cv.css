@@ -39,7 +39,7 @@ body { padding-top: 50px; }
  left: -16px; height: 0; width: 0; border: solid transparent;
  border-right-color: #eee; border-width: 8px;
  pointer-events: none; }
-#parcours .details h3{ font-size: 1.5em; margin: 0; padding: 0; font-weight: 700; }
+#parcours .details h3{ color: rgba(255, 188, 0,1) ;font-size: 1.5em; margin: 0; padding: 0; font-weight: 700; }
 #parcours .details p{ font-size: 1.3em; margin-top: 5px; padding: 0; }
 /* Pour empêcher la déformation du parcours scolaire selon la STA */
 @media (min-width: 500px) { #parcours .date { width: 20%; }
@@ -51,7 +51,7 @@ body { padding-top: 50px; }
 @media (min-width: 992px) { #parcours .date { width: 17%; }
  #parcours .details { width: 83%; }
 }
-@media (min-width: 1200px) { #parcours .date { width: 13%; }
+@media (min-width: 1200px) { #parcours .date { color: #d0d0d0; width: 13%; }
  #parcours .details { width: 87%; }
 }
 /******************************************
