@@ -1,4 +1,5 @@
 <?php
+$title='Accueil';
 require_once(__DIR__ . '/views/V_head.php');
 ?>
 <link rel="stylesheet" href="/../css/styles.css">
