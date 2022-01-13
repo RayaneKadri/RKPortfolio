@@ -1,3 +1,5 @@
+        <?php $title= 'Nolark'; ?>
+        <?php ob_start(); ?>
         <section class="jumbotron text-center">
             <div class="container">
                 <h1 class="jumbotron-heading">Site Internet Nolark</h1>
@@ -40,3 +42,5 @@
                 </div>
             </div>
         </div>
+        <?php $content = ob_get_clean(); ?>
+        <?php include(__DIR__ . '/../views/templates/head.php'); ?>
