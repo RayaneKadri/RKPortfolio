@@ -16,6 +16,7 @@
               crossorigin="anonymous">
         <link rel="stylesheet" href="/../css/styles.css">
         <link rel="stylesheet" href="/../css/cv.css">
+        <link rel="stylesheet" href="/../css/realisations.css">
         <link rel="icon" href="../favicon.ico">
     </head>
 
