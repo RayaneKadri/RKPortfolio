@@ -1,3 +1,6 @@
+    <?php $title= 'Accueil'?>
+    <?php $page= 0; ?>
+    <?php ob_start(); ?>
     <div class="jumbotron">
                 <h1>Bienvenue</h1>
                 <img src="../images/moi.PNG" alt="Ma Photo">
@@ -6,3 +9,7 @@
                 </p>
                 <a class="btn btn-primary" href="../pages/C_cv.php"_blank" role="button">En savoir plus »</a>
     </div> <!-- Emplacement pour le contenu principal de la page -->
+    <?php $content = ob_get_clean(); ?>
+    <?php include(__DIR__ . '/../views/templates/navbar.php'); ?>
+    <?php include(__DIR__ . '/../views/templates/head.php'); ?>
+   
