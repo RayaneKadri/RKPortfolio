@@ -7,6 +7,6 @@ require_once(__DIR__ . '/../views/templates/head.php');
 <link rel="icon" href="../favicon.ico">
 <?php $page=1;
     require_once(__DIR__ . '/../views/templates/navbar.php');
-    require_once(__DIR__ . '/../views/templates/cv.php');
+    require_once(__DIR__ . '/../views/V_cv.php');
     require_once(__DIR__ . '/../views/templates/footer.php');
 ?>
