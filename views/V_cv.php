@@ -169,3 +169,4 @@
 </div>
 <?php $content = ob_get_clean(); ?>
 <?php include(__DIR__ . '/../views/templates/head.php'); ?>
+<?php include(__DIR__ . '/../views/templates/navbar.php'); ?>
