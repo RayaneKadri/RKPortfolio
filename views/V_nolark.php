@@ -1,4 +1,5 @@
         <?php $title= 'Nolark'; ?>
+        <?php $page=2 ; ?>
         <?php ob_start(); ?>
         <section class="jumbotron text-center">
             <div class="container">
