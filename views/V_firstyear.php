@@ -1,3 +1,5 @@
+<?php $title= 'Projet de première année'?>
+<?php ob_start(); ?>
 <section class="jumbotron text-center">
             <div class="container">
                 <h1 class="jumbotron-heading">Première projet de 1ère année</h1>
@@ -8,3 +10,5 @@
                 </p>
             </div>
 </section>
+<?php $content= ob_get_clean(); ?>
+<?php include(__DIR__ . '/../views/templates/head.php'); ?>
