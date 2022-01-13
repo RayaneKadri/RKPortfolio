@@ -1,3 +1,5 @@
+<?php $title= 'CV'; ?>
+<?php ob_start(); ?>
 <div class="jumbotron">
             <div class="container">
                 <div class="row cadreCV">
@@ -164,3 +166,5 @@
                 </div>
             </div>
 </div>
+<?php $content = ob_get_clean(); ?>
+<?php include(__DIR__ . '/../views/templates/head.php'); ?>
