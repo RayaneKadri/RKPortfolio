@@ -1,5 +1,5 @@
 <?php $title= 'CV'; ?>
-<?php $page=1 ; ?>
+<?php $page= 1 ; ?>
 <?php ob_start(); ?>
 <div class="jumbotron">
             <div class="container">
