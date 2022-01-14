@@ -4,15 +4,16 @@ if (isset($_GET['action'])) {
     if ($_GET['action'] == 'home') {
         home();
     }
-    elseif (isset($_GET['action'])) {
-        if ($_GET['action'] == 'cv') {
-            cv();
-        }
-        else {
-            echo 'Erreur : aucun identifiant de billet envoyé';
-        }
+    elseif ($_GET['action'] == 'cv') {
+        cv();
     }
-}
+    elseif ($_GET['action'] == 'nolark') {
+            nolark();
+    }
+    elseif ($_GET['action'] == 'firstyear') {
+            firstyear();
+     }
+    }
 else {
     home();
 }
