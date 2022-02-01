@@ -89,7 +89,7 @@
                                 <div class="details float-left">
                                     <a href="mailto:kadrirayane@gmail.com?subject=Contact depuis le CV en ligne"
                                        title="Mon Mail">
-                                        <img class="contact-icon" src="../images/cv/mail-dreamstale47.png"
+                                        <img class="contact-icon" src="../public/images/cv/mail-dreamstale47.png"
                                              alt="Icone de mail"> Gmail.com
                                     </a>
                                 </div>
@@ -98,7 +98,7 @@
                                 <div class="details float-left">
                                     <a href="https://www.linkedin.com/in/rayane-kadri-906289221/"
                                        title="Mon profil LinkedIn">
-                                        <img class="contact-icon" src="../images/cv/linkedin-dreamstale45.png"
+                                        <img class="contact-icon" src="../public/images/cv/linkedin-dreamstale45.png"
                                              alt="Icone de LinkedIn"> LinkedIn
                                     </a>
                                 </div>
@@ -107,7 +107,7 @@
                                 <div class="details float-left">
                                     <a href="https://github.com/RayaneKadri"
                                        title="Mon profil LinkedIn">
-                                        <img class="contact-icon" src="../images/cv/github2-dreamstale35.png"
+                                        <img class="contact-icon" src="../public/images/cv/github2-dreamstale35.png"
                                              alt="Icone de GitHub"> GitHub
                                     </a>
                                 </div>
