@@ -14,9 +14,9 @@
               href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
               integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
               crossorigin="anonymous">
-        <link rel="stylesheet" href="/../css/styles.css">
-        <link rel="stylesheet" href="/../css/cv.css">
-        <link rel="stylesheet" href="/../css/realisations.css">
+        <link rel="stylesheet" href="/../public/css/styles.css">
+        <link rel="stylesheet" href="/../public/css/cv.css">
+        <link rel="stylesheet" href="/../public/css/realisations.css">
         <link rel="icon" href="../favicon.ico">
     </head>
 

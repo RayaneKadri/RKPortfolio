@@ -6,7 +6,7 @@
                 <div class="row cadreCV">
                     <div id="cv-entete" class="text-center">
                         <div id="cv-photo">
-                            <img src="../images/Moi.png" alt="Ma photo d'identité">
+                            <img src="/../public/images/moi.png" alt="Ma photo d'identité">
                         </div>
                         <div id="cv-intro">
                             <h1>Voici mon CV</h1>

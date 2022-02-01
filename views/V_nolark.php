@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/devtool.PNG" alt="Outil développeur dans le navigateur Internet">
+                            <img class="card-img-top" src="../public/images/devtool.PNG" alt="Outil développeur dans le navigateur Internet">
                             <div class="card-body">
                                 <p class="card-text">Analyse du code html/css à l'aide de "Devtool".</p>
                             </div>
@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/ops.PNG" 
+                            <img class="card-img-top" src="../public/images/ops.PNG" 
                                  alt="Image de carte Open Street Map">
                             <div class="card-body">
                                 <p class="card-text">Emplacement de Nolark à l'aide de Open Street Map</p>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="../images/responsive.PNG" alt="Page web 'responsive' adaptée pour affichage mobile/tablette">
+                            <img class="card-img-top" src="../public/images/responsive.PNG" alt="Page web 'responsive' adaptée pour affichage mobile/tablette">
                             <div class="card-body">
                                 <p class="card-text">Affichage des pages en mode "responsive"</p>
                             </div>
