@@ -12,5 +12,5 @@
             </div>
 </section>
 <?php $content= ob_get_clean(); ?>
-<?php require(__DIR__ . '/../views/templates/head.php'); ?>
-<?php require(__DIR__ . '/../views/templates/navbar.php'); ?>
+<?php require(__DIR__ . '/../view/templates/head.php'); ?>
+<?php require(__DIR__ . '/../view/templates/navbar.php'); ?>

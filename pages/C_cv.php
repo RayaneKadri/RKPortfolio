@@ -1,4 +1,4 @@
 <?php
-    require_once(__DIR__ . '/../views/V_cv.php');
-    require_once(__DIR__ . '/../views/templates/footer.php');
+    require_once(__DIR__ . '/../view/V_cv.php');
+    require_once(__DIR__ . '/../view/templates/footer.php');
 ?>

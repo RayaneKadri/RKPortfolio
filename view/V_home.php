@@ -10,6 +10,6 @@
                 <a class="btn btn-primary" href="../pages/C_cv.php"_blank" role="button">En savoir plus »</a>
     </div> <!-- Emplacement pour le contenu principal de la page -->
     <?php $content = ob_get_clean(); ?>
-    <?php require(__DIR__ . '/../views/templates/navbar.php'); ?>
-    <?php require(__DIR__ . '/../views/templates/head.php'); ?>
+    <?php require(__DIR__ . '/../view/templates/navbar.php'); ?>
+    <?php require(__DIR__ . '/../view/templates/head.php'); ?>
    
